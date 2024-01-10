@@ -33,9 +33,6 @@ class Login : AppCompatActivity() {
             startActivity(Intent(this, Register::class.java))
         }
 
-        /*binding.TxtRegistrarme.setOnClickListener {
-            startActivity(Intent(this@Login_email, Registro_email::class.java))
-        }*/
 
     }
 
