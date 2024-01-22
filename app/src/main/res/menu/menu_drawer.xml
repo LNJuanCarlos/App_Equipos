@@ -1,0 +1,21 @@
+<!-- res/menu/menu_drawer.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_option1"
+            android:title="Exportar"
+            android:icon="@drawable/ic_exportar"/>
+        <item
+            android:id="@+id/menu_option2"
+            android:title="Acerca de."
+            android:icon="@drawable/ic_overflow"
+            />
+        <item
+            android:id="@+id/menu_option3"
+            android:title="Cerrar Sesion"
+            android:icon="@drawable/icon_cerrar"
+            />
+    </group>
+</menu>
+
+

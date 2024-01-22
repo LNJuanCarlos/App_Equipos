@@ -8,4 +8,12 @@
     <string name="password_hint">Contraseña</string>
     <string name="iniciar_sesion">INICIAR SESION</string>
     <string name="ingresa_con_tu_correo_y_contra">Ingresa con tu correo y contraseña</string>
+
+    <string name="Item_Inicio">Inicio</string>
+    <string name="Item_Disponibles">Disponibles</string>
+    <string name="Item_Mi_Reserva">Reservas</string>
+    <string name="Item_Opciones">+ Opciones</string>
+    <string name="TituloRL">Titulo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

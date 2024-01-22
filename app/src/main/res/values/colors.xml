@@ -11,4 +11,6 @@
     <color name="gray_light">#F5F5F5</color>
     <color name="red">#EA1616</color>
     <color name="blue">#16A0EA</color>
+
+    <color name="mi_color">#3b5998</color>
 </resources>

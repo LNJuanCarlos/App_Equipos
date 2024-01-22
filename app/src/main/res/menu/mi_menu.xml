@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Item_Inicio"
+        android:title="@string/Item_Inicio"
+        android:icon="@drawable/iconinicio"
+        />
+    <item
+        android:id="@+id/Item_Disponibles"
+        android:title="@string/Item_Disponibles"
+        android:icon="@drawable/ic_disponibles"
+        />
+    <item
+        android:id="@+id/Item_Mi_Reserva"
+        android:title="@string/Item_Mi_Reserva"
+        android:icon="@drawable/ic_reservas"
+        />
+    <item
+        android:id="@+id/navigation_overflow"
+        android:title="@string/Item_Opciones"
+        android:enabled="false"/>
+</menu>
